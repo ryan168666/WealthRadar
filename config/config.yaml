@@ -99,3 +99,7 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "hupu"
+    name: "虎扑"
+  - id: "xiaohongshu"
+    name: "小红书"
